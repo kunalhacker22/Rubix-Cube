@@ -23,7 +23,7 @@ A fully interactive, web-based simulation of a standard 3x3x3 Rubik's Cube. It u
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone [https://github.com/kunalhacker22/Rubix-Cube.git]
     ```
 2.  **Open the File:**
     Open the `index.html` file directly in your modern web browser.
